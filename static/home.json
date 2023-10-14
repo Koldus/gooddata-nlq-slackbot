@@ -1,0 +1,12 @@
+{
+    "type": "home",
+    "blocks": [
+        {
+			"type": "header",
+			"text": {
+				"type": "plain_text",
+				"text": "This is where you will learn what GD NLQ Slackbot can do."
+			}
+		}
+    ]
+}
